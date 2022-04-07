@@ -8,9 +8,9 @@
 
 ## Използвани технологии
 
-* [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3)
-* [WS2812](https://cdn-shop.adafruit.com/datasheets/WS2812.pdf)
-* [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+* [Arduino UNO](https://docs.arduino.cc/hardware/uno-rev3) Ардуино е проект с отворен код и едноименна компания. Основната цел е проектиране и производство на електронна платформа с лесен за ползване свободен хардуер и софтуер, позволяващи постигането на интерактивност за неспециалисти.
+* [WS2812](https://cdn-shop.adafruit.com/datasheets/WS2812.pdf) Програмируема LED RGB лента
+* [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) Бързото преобразуване на Фурие е алгоритъм, който изчислява дискретната трансформация на Фурие на последователност или нейната обратна. Анализът на Фурие преобразува сигнал от първоначалния му домейн в представяне в честотната област и обратно.
 
 ## Информация за авторите на проекта
 
